@@ -1,0 +1,5 @@
+PKG_NAME := mvn-byteman
+URL = https://github.com/bytemanproject/byteman/archive/3.0.3.tar.gz
+ARCHIVES = https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-submit/3.0.3/byteman-submit-3.0.3.pom : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-submit/3.0.3/byteman-submit-3.0.3.jar : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-bmunit/3.0.3/byteman-bmunit-3.0.3.pom : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-bmunit/3.0.3/byteman-bmunit-3.0.3.jar : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-root/3.0.3/byteman-root-3.0.3.pom : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-install/3.0.3/byteman-install-3.0.3.jar : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-install/3.0.3/byteman-install-3.0.3.pom : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman/3.0.3/byteman-3.0.3.pom : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman/3.0.3/byteman-3.0.3.jar :
+
+include ../common/Makefile.common
