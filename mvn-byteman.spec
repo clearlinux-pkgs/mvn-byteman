@@ -4,7 +4,7 @@
 #
 Name     : mvn-byteman
 Version  : 3.0.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/bytemanproject/byteman/archive/3.0.3.tar.gz
 Source0  : https://github.com/bytemanproject/byteman/archive/3.0.3.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/jboss/byteman/byteman-bmunit/3.0.3/byteman-bmunit-3.0.3.jar
